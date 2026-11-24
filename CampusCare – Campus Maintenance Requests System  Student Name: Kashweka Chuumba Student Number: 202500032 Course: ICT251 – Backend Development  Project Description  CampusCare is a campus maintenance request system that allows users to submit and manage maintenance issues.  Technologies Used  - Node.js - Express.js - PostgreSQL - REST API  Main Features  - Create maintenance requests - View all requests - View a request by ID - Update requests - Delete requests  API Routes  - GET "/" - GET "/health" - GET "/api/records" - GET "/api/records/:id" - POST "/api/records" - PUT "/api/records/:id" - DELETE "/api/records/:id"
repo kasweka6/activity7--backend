@@ -1,0 +1,34 @@
+CampusCare – Campus Maintenance Requests System
+
+Student Name: Kashweka Chuumba
+Student Number: 202500032
+Course: ICT251 – Backend Development
+
+Project Description
+
+CampusCare is a campus maintenance request system that allows users to submit and manage maintenance issues.
+
+Technologies Used
+
+- Node.js
+- Express.js
+- PostgreSQL
+- REST API
+
+Main Features
+
+- Create maintenance requests
+- View all requests
+- View a request by ID
+- Update requests
+- Delete requests
+
+API Routes
+
+- GET "/"
+- GET "/health"
+- GET "/api/records"
+- GET "/api/records/:id"
+- POST "/api/records"
+- PUT "/api/records/:id"
+- DELETE "/api/records/:id"
